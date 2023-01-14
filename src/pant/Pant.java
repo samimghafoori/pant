@@ -12,4 +12,8 @@ public class Pant {
 	System.out.println("this is form commit form romte repo");	
 		
 	}
+	
+	public void testOne() {
+		System.out.println("this is second commit form repo");
+	}
 }
