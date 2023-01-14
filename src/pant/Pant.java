@@ -20,5 +20,9 @@ public class Pant {
 	public void testTwo() {
 		
 	System.out.println("this is 3rd commit form remote repo");	
-	}		
+	}
+	
+	public void testThree() {
+		System.out.println("this is 4rd commit form repo");
+	}
 }
