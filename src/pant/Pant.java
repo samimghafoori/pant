@@ -6,5 +6,10 @@ public class Pant {
 	 System.out.println("this is first commit form repo");
 
 	}
+	
+	public void test() {
 
+	System.out.println("this is form commit form romte repo");	
+		
+	}
 }
